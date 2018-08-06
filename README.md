@@ -1,2 +1,2 @@
 # wpbulma
-Theme based on Bulma.io CSS freamework, developed for fishandflyorobie.it (WIP)
+Theme based on Bulma.io CSS framework, developed for fishandflyorobie.it (WIP)
